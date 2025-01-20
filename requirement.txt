@@ -1,0 +1,7 @@
+torch
+torchvision
+pymunk
+pygame
+numpy
+opencv-python
+matplotlib
